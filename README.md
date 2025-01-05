@@ -28,4 +28,7 @@ end
 
 print hello, world out for 5 times
 
+run via terminal
+runy name.ms
+
 enjoy!!
